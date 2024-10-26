@@ -35,27 +35,25 @@ document.write(`
                 <li>
                     <a href="index.html">Home</a>
                    
+                
                 <li>
-                    <a href="about.html">About</a>
+                    <a href="researchwriting.html">Research Writing</a>
                 </li>
                 <li>
-                    <a href="about.html">Why Us</a>
+                    <a href="thesiswriting.html">Thesis Writing</a>
                 </li>
                 <li>
-                    <a href="about.html">Guidance Process</a>
-                </li>
-                <li>
-                    <a href="prices.html">Prices</a>
+                    <a href="dissertation.html">Dissertation</a>
                 </li>
                
                 <li >
-                    <a href="#">Services</a>
+                    <a href="reviewpaper.html">Review Paper</a>
                   
                 </li>
-              
                 <li>
-                    <a href="contact.html">Contact</a>
+                    <a href="plagiarismremoval.html">Plagiarism Removal</a>
                 </li>
+               
                 <li class="dot"></li>
             </ul>
         </nav><!-- /.main-header-five__nav -->
@@ -65,10 +63,7 @@ document.write(`
                 <span></span>
                 <span></span>
             </div><!-- /.mobile-nav__toggler -->
-            <a href="#" class="search-toggler main-header-five__search">
-                <i class="icon-magnifying-glass" aria-hidden="true"></i>
-                <span class="sr-only">Search</span>
-            </a><!-- /.search-toggler -->
+           
             <a href="contact.html" class="tolak-btn-two main-header-five__btn">
                 <span class="tolak-btn-two__left-star"></span>
                 <span>Contact Us<i class="tolak-icons-two-arrow-right-short"></i></span>
