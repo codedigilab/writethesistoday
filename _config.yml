@@ -1,4 +1,6 @@
 permalink: pretty
 permalink: /:title/
 permalink: index/
+permalink: prices/
+
 

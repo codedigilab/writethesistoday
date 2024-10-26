@@ -38,21 +38,19 @@ document.write(`
                 <li>
                     <a href="about.html">About</a>
                 </li>
+                <li>
+                    <a href="about.html">Why Us</a>
+                </li>
+                <li>
+                    <a href="about.html">Guidance Process</a>
+                </li>
+                <li>
+                    <a href="prices.html">Prices</a>
+                </li>
                
-                <li class="dropdown">
+                <li >
                     <a href="#">Services</a>
-                    <ul>
-                        <li><a href="services.html">Services One</a></li>
-                        <li><a href="services-carousel.html">Services One Carousel</a></li>
-                        <li><a href="services-two.html">Services Two</a></li>
-                        <li><a href="services-two-carousel.html">Services Two Carousel</a></li>
-                        <li><a href="business-growth.html">Business of Growth</a></li>
-                        <li><a href="business-solution.html">Solution to Business</a></li>
-                        <li><a href="marketing-solution.html">Markting of Solution</a></li>
-                        <li><a href="technology-services.html">Technology Services</a></li>
-                        <li><a href="business-marketing.html">Marketing Business</a></li>
-                        <li><a href="business-support.html">Support of Business</a></li>
-                    </ul>
+                  
                 </li>
               
                 <li>
