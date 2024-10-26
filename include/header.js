@@ -38,38 +38,7 @@ document.write(`
                 <li>
                     <a href="about.html">About</a>
                 </li>
-                <li class="dropdown">
-                    <a href="#">Pages</a>
-                    <ul>
-                        <li>
-                            <a href="project.html">Our Project</a>
-                            <ul>
-                                <li><a href="project.html">Project Page</a></li>
-                                <li><a href="project-carousel.html">Project Carousel</a></li>
-                                <li><a href="project-details.html">Project Details</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="team.html">Our Team</a></li>
-                        <li><a href="team-carousel.html">Team Carousel</a></li>
-                        <li><a href="team-details.html">Team Details</a></li>
-                        <li><a href="reviews.html">Testimonial</a></li>
-                        <li><a href="reviews-carousel.html">Testimonial Carousel</a></li>
-                        <li><a href="packages.html">Pricing Page</a></li>
-                        <li><a href="packages-carousel.html">Pricing Carousel</a></li>
-                        <li>
-                            <a href="gallery.html">Gallery</a>
-                            <ul>
-                                <li><a href="gallery.html">Gallery Masonry</a></li>
-                                <li><a href="gallery-filter.html">Gallery Filter</a></li>
-                                <li><a href="gallery-grid.html">Gallery Grid</a></li>
-                                <li><a href="gallery-carousel.html">Gallery Carousel</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="faq.html">FAQs</a></li>
-                        <li><a href="login.html">Login</a></li>
-                        <li><a href="404.html">404 Error</a></li>
-                    </ul>
-                </li>
+               
                 <li class="dropdown">
                     <a href="#">Services</a>
                     <ul>
@@ -85,53 +54,7 @@ document.write(`
                         <li><a href="business-support.html">Support of Business</a></li>
                     </ul>
                 </li>
-                <li class="dropdown">
-                    <a href="#">Shop</a>
-                    <ul class="sub-menu">
-                        <li class="dropdown">
-                            <a href="#">Products</a>
-                            <ul class="sub-menu">
-                                <li><a href="products.html">No Sidebar</a></li>
-                                <li><a href="products-left.html">Left Sidebar</a></li>
-                                <li><a href="products-right.html">Right Sidebar</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="products-carousel.html">Products Carousel</a></li>
-                        <li><a href="product-details.html">Product Details</a></li>
-                        <li><a href="cart.html">Cart</a></li>
-                        <li><a href="checkout.html">Checkout</a></li>
-                    </ul>
-                </li>
-                <li class="dropdown">
-                    <a href="#">News</a>
-                    <ul class="sub-menu">
-                        <li class="dropdown">
-                            <a href="#">News Grid</a>
-                            <ul class="sub-menu">
-                                <li><a href="blog-grid.html">No Sidebar</a></li>
-                                <li><a href="blog-grid-left.html">Left Sidebar</a></li>
-                                <li><a href="blog-grid-right.html">Right Sidebar</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#">News List</a>
-                            <ul class="sub-menu">
-                                <li><a href="blog-list.html">No Sidebar</a></li>
-                                <li><a href="blog-list-left.html">Left Sidebar</a></li>
-                                <li><a href="blog-list-right.html">Right Sidebar</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="blog-carousel.html">News Carousel</a></li>
-                        <li class="dropdown">
-                            <a href="#">News Details</a>
-                            <ul class="sub-menu">
-                                <li><a href="blog-details.html">No Sidebar</a></li>
-                                <li><a href="blog-details-left.html">Left Sidebar</a></li>
-                                <li><a href="blog-details-right.html">Right Sidebar</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </li>
+              
                 <li>
                     <a href="contact.html">Contact</a>
                 </li>
