@@ -11,7 +11,7 @@ document.write(`
     <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
     <div class="logo-box">
-        <a href="index.html" aria-label="logo image"><img src="assets/images/logo-light.png" width="155"
+        <a href="index.html" aria-label="logo image"><img src="assets/images/writethesistoday/logo.png" width="155"
                 alt="" /></a>
     </div>
     <!-- /.logo-box -->
@@ -70,7 +70,7 @@ document.write(`
 <div class="sidebar-one__content">
     <div class="sidebar-one__close"><i class="icon-close"></i></div><!-- /.siderbar-close -->
     <div class="sidebar-one__logo">
-        <a href="index.html" aria-label="logo image"><img src="assets/images/logo-light.png" alt="Tolak HTML"
+        <a href="index.html" aria-label="logo image"><img src="assets/images/writethesistoday/logo.png" alt="Tolak HTML"
                 width="184"></a>
     </div><!-- /.sidebar-one__logo-box -->
     <p class="sidebar-one__text">
@@ -81,7 +81,7 @@ document.write(`
     <ul class="sidebar-one__info">
         <li>
             <span class="fas fa-map-marker-alt"></span>
-            27, Dhaka London City Dhaka, Bangladesh
+            Darbhanga Bihar 846009
         </li>
         <li>
             <span class="fas fa-clock"></span>
