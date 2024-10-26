@@ -12,7 +12,7 @@ document.write(`
         <div class="col-md-6 col-lg-4">
             <div class="footer-widget footer-widget--about-two">
                 <a href="index.html" class="footer-widget__logo">
-                    <img src="assets/images/logo-4.png" width="186" alt="Tolak HTML Template">
+                    <img src="assets/images/writethesistoday/logo.png" width="186" alt="Tolak HTML Template">
                 </a>
                 <p class="footer-widget--about-two__text">
                     Will give you a complete account the system, and expound the teachings of the

@@ -25,7 +25,7 @@ document.write(`
     <div class="main-header-five__inner">
         <div class="main-header-five__logo">
             <a href="index.html">
-                <img src="assets/images/logo-3.png" alt="${name}" width="186">
+                <img src="assets/images/writethesistoday/logo.jpg" alt="${name}" width="186">
             </a>
         </div><!-- /.main-header-five__logo -->
         <nav class="main-header-five__nav main-menu">
