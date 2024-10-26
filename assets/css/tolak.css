@@ -17003,11 +17003,11 @@ body.boxed-wrapper .main-slider-one__floating-text {
   position: relative;
   z-index: 1;
   background-color: var(--tolak-black, #051d1f);
-  padding: 98px 0 106px;
+  padding: 40px 0 40px;
 }
 @media (max-width: 767px) {
   .slide-text {
-    padding: 68px 0 76px;
+    padding: 30px 0 30px;
   }
 }
 .slide-text__bg {
