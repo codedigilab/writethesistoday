@@ -99,7 +99,7 @@ document.write(`
             <div class="row">
                 <div class="col-md-6">
                     <p class="main-footer-four__copyright">
-                        &copy; Copyright <span class="dynamic-year"></span> by ${name}
+                        &copy; Copyright 2018 To <span class="dynamic-year"></span> by ${name}
                     </p>
                 </div>
                 <div class="col-md-6">
