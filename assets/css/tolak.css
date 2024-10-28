@@ -17557,7 +17557,7 @@ body.boxed-wrapper .main-slider-one__floating-text {
   padding: 0px 0 0 0;
   margin-top: -40px;
   position: relative;
-  top: 48px;
+  top: 28px;
 }
 .main-header-five__inner::after {
   position: absolute;
@@ -18074,8 +18074,8 @@ body.boxed-wrapper .main-slider-one__floating-text {
   background-color: var(--tolak-black, #051d1f);
   position: relative;
   z-index: 3;
-  padding-top: 240px;
-  padding-bottom: 188px;
+  padding-top: 140px;
+  padding-bottom: 58px;
 }
 @media (max-width: 1199px) {
   .main-slider-five__item {
