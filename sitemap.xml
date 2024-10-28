@@ -2,9 +2,13 @@
 <urlset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://writethesistoday.com</loc>
-    <loc>https://writethesistoday.com/index.html</loc>
+    <loc>https://writethesistoday.com/about.html</loc>
     <loc>https://writethesistoday.com/contact.html</loc>
-    <loc>https://writethesistoday.com/services.html</loc>
-    <loc>https://writethesistoday.com/about-us.html</loc>
+    <loc>https://writethesistoday.com/dissertation.html</loc>
+    <loc>https://writethesistoday.com/index.html</loc>
+    <loc>https://writethesistoday.com/plagiarismremoval.html</loc>
+    <loc>https://writethesistoday.com/researchwriting.html</loc>
+    <loc>https://writethesistoday.com/reviewpaper.html</loc>
+    <loc>https://writethesistoday.com/thesiswriting.html</loc>
   </url>
 </urlset>
